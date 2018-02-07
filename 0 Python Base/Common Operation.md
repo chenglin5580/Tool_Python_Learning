@@ -1,7 +1,5 @@
 # Python Common Operation
 
-# Python Common Operation
-
 
 ## 结构
 - #是注释
