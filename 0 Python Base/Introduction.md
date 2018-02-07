@@ -35,6 +35,10 @@
 - [Sublime Text](http://www.sublimetext.com/)
 - [Notepad ++](https://notepad-plus-plus.org/)
 
+## 好的教学
+- [廖雪峰](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+- [小甲鱼零基础入门学习Python](http://blog.fishc.com/category/python)
+
 
 
 
