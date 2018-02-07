@@ -27,4 +27,16 @@
 - IronPython  
 
 
+## Python的启动
+- Windows下直接在CMD里面运行Python
+- 记得加入环境变量
+
+## 文本编辑器
+- [Sublime Text](http://www.sublimetext.com/)
+- [Notepad ++](https://notepad-plus-plus.org/)
+
+
+
+
+
 
