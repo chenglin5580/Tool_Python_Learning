@@ -1,15 +1,15 @@
 # Python Learning
 
 
-- [Python Introduction简介](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Introduction.md)
-- [Python Common Operation常用操作&高级特性](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Common%20Operation.md)
-- [Python Data Type数据类型](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Data%20type.md)
-- [Python Variable变量类型](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Variable.md)
-- [Python Code编码](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Code.md)
-- [Python Function函数](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Function.md)
-- [Python Flow Control流程控制](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Flow%20Control.md)
-- [Python Fucntion Programming函数编程](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Function%20Programming.md)
-- [Python Class and Instance类和实例化](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Class%26Instance.md)
+- [Python Introduction:简介](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Introduction.md)
+- [Python Common Operation:常用操作&高级特性](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Common%20Operation.md)
+- [Python Data Type:数据类型](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Data%20type.md)
+- [Python Variable:变量类型](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Variable.md)
+- [Python Code:编码](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Code.md)
+- [Python Function:函数](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Function.md)
+- [Python Flow Control:流程控制](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Flow%20Control.md)
+- [Python Fucntion Programming:函数编程](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Function%20Programming.md)
+- [Python Class and Instance:类和实例化](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Class%26Instance.md)
 
 
 # 待强化部分
