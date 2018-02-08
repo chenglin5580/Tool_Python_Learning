@@ -1,8 +1,9 @@
 # Python Common Operation
 
+[TOC]
 
 ## 结构
-- #是注释
+- .#是注释
 - 当语句以冒号:结尾时，缩进的语句视为代码块
 - 赋值语句：t = b, a + b, t是一个tuple,可以用x，y=
 
@@ -36,7 +37,7 @@ False
 - 可以使用**两层循环**，可以生成全排列， [m + n for m in 'ABC' for n in 'XYZ']['AX', 'AY', 'AZ', 'BX', 'BY', 'BZ', 'CX', 'CY', 'CZ']
 - [具体使用参考](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431779637539089fd627094a43a8a7c77e6102e3a811000)
 
-## 生成器 generator
+## 列表生成器 generator
 - 好处就是，一个一个的生成，省空间
 - 构造方式
 - g = (x * x for x in range(10))
@@ -45,3 +46,6 @@ False
 ## 迭代器 Iterator
 - [具体](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/00143178254193589df9c612d2449618ea460e7a672a366000)
 
+##两个属性
+- Iterable: list tuple,dict,set,str
+- Iterator:genetator

@@ -1,5 +1,6 @@
 # Class and Instance
 
+[TOC]
 
 ## 类和实例
 
@@ -12,5 +13,17 @@
 
 
 ## 继承
+继承一个类：
+如果已经定义了Person类，需要定义新的Student和Teacher类时，可以直接从Person类继承：
 
+class Person(object):
+    def __init__(self, name, gender):
+        self.name = name
+        self.gender = gender
+定义Student类时，只需要把额外的属性加上，例如score：
+
+class Student(Person):
+    def __init__(self, name, gender, score):
+        super(Student, self).__init__(name, gender)
+        self.score = score
 

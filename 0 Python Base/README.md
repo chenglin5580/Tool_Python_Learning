@@ -1,5 +1,6 @@
 # Python Learning
 
+[TOC]
 
 - [Python Introduction:简介](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Introduction.md)
 - [Python Common Operation:常用操作&高级特性](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Common%20Operation.md)
@@ -8,7 +9,7 @@
 - [Python Code:编码](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Code.md)
 - [Python Function:函数](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Function.md)
 - [Python Flow Control:流程控制](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Python%20Flow%20Control.md)
-- [Python Fucntion Programming:函数编程](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Function%20Programming.md)
+- [Python Fucntion Programming:函数式编程(高级函数应用)](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Function%20Programming.md)
 - [Python Class and Instance:类和实例化](https://github.com/chenglin5580/Tool_Python_Learning/blob/master/0%20Python%20Base/Class%26Instance.md)
 
 
