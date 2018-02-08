@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="2017.02.07 类和实例">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Class&amp;Instance" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Class&amp;Instance.md" afterPath="$PROJECT_DIR$/0 Python Base/Class&amp;Instance.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Common Operation.md" afterPath="$PROJECT_DIR$/0 Python Base/Common Operation.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Function Programming.md" afterPath="$PROJECT_DIR$/0 Python Base/Function Programming.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Introduction.md" afterPath="$PROJECT_DIR$/0 Python Base/Introduction.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Data type.md" afterPath="$PROJECT_DIR$/0 Python Base/Python Data type.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Flow Control.md" afterPath="$PROJECT_DIR$/0 Python Base/Python Flow Control.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Function.md" afterPath="$PROJECT_DIR$/0 Python Base/Python Function.md" />
-      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Variable.md" afterPath="$PROJECT_DIR$/0 Python Base/Python Variable.md" />
+    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/0 Python Base/Common Operation.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/0 Python Base/Function Programming.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Code.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/0 Python Base/Python Variable.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/0 Python Base/README.md" afterPath="$PROJECT_DIR$/0 Python Base/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,21 +20,7 @@
     <SUITE FILE_PATH="coverage/2018_02_06_Python$2018_02_06_Python.coverage" NAME="2018.02.06 Python学习 Coverage Results" MODIFIED="1517923090776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Python Code.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0 Python Base/Python Code.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -277,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517989728314</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2017.02.08 重新整理，精简目录">
+      <created>1518055730160</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1518055730160</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -318,7 +306,8 @@
     <MESSAGE value="2017.02.07 重新整理" />
     <MESSAGE value="2017.02.07 高级特性" />
     <MESSAGE value="2017.02.07 类和实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017.02.07 类和实例" />
+    <MESSAGE value="2017.02.08 重新整理，精简目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017.02.08 重新整理，精简目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
