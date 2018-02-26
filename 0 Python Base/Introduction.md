@@ -36,6 +36,7 @@
 ## 文本编辑器
 - [Sublime Text](http://www.sublimetext.com/)
 - [Notepad ++](https://notepad-plus-plus.org/)
+- Pycharm
 
 
 ## 字符串编码
