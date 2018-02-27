@@ -68,4 +68,3 @@ False
 #### 表达式
 > c = a if a>b else b 
 
-#### 二位李彪
