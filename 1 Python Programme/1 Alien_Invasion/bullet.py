@@ -1,12 +1,11 @@
-
 import pygame
 from pygame.sprite import Sprite
+
 
 class Bullet(Sprite):
 
     ## 一个飞船发射的子弹进行管理的类
     def __init__(self, ai_settings, screen, ship):
-
         ## 根据飞船的位置创建子弹
         super().__init__()
         self.screen = screen
@@ -30,9 +29,3 @@ class Bullet(Sprite):
     def draw_bullet(self):
         # 绘制子弹
         pygame.draw.rect(self.screen, self.color, self.rect)
-
-
-
-
-
-
