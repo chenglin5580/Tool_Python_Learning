@@ -129,11 +129,6 @@
               <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="1 Python Programme (Learn and Practice )" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -354,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519697518840</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2017.02.08 重新整理，精简目录，删除多余的">
+      <created>1519699553108</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1519699553108</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
