@@ -4,6 +4,7 @@ import pygame
 from settings import Settings
 from ship import Ship
 import game_function as gf
+from pygame.sprite import Group
 
 ## main
 
@@ -17,16 +18,20 @@ def run_game():
 
     ship = Ship(ai_settings, screen)
 
+    # 创建存储子弹的编组
+    bullets = Group()
 
 
     for step in range(5000):
 
         ## 响应按键和鼠标事件
-        gf.check_events(ship)
+        gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
 
-        ## 更新图像
-        gf.update_screen(ai_settings, screen, ship)
+        gf.update_bullets(bullets)
+
+         ## 更新图像
+        gf.update_screen(ai_settings, screen, ship, bullets)
 
 
 run_game()
