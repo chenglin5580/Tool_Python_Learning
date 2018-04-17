@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="2018.04.16 MultiProcessing Pool学习">
-      <change beforePath="" afterPath="$PROJECT_DIR$/3 Threading/Threading.py" />
+    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/3 Threading/aaa.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/3 Threading/Threading.py" afterPath="$PROJECT_DIR$/3 Threading/Threading.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,8 +15,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519719985970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
-    <SUITE FILE_PATH="coverage/Tool_Python_Learning$Threading.coverage" NAME="Threading Coverage Results" MODIFIED="1523933668101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$Threading.coverage" NAME="Threading Coverage Results" MODIFIED="1523934737117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning2$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519741607281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1523934494932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_EfficiencyComparison.coverage" NAME="2 EfficiencyComparison Coverage Results" MODIFIED="1523888550442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 MultiProcessing" />
     <SUITE FILE_PATH="coverage/2018_02_06_Python$2018_02_06_Python.coverage" NAME="2018.02.06 Python学习 Coverage Results" MODIFIED="1517923090776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -31,12 +33,34 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="aaa.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/3 Threading/aaa.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="297">
+                    <caret line="11" column="24" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="24" />
+                    <folding>
+                      <element signature="e#215#231#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="alien_invasion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
+            <state relative-caret-position="614">
               <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="e#10#20#0" expanded="true" />
@@ -90,9 +114,11 @@
       <file leaf-file-name="Threading.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3 Threading/Threading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="567">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#17#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,18 +141,6 @@
             <state relative-caret-position="135">
               <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bullet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/bullet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,6 +193,7 @@
         <option value="$PROJECT_DIR$/2 MultiProcessing/1 ProcessAdd.py" />
         <option value="$PROJECT_DIR$/2 MultiProcessing/2 EfficiencyComparison.py" />
         <option value="$PROJECT_DIR$/2 MultiProcessing/3 Pool.py" />
+        <option value="$PROJECT_DIR$/3 Threading/aaa.py" />
         <option value="$PROJECT_DIR$/3 Threading/Threading.py" />
       </list>
     </option>
@@ -190,8 +205,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-32" />
-    <option name="y" value="69" />
+    <option name="x" value="2005" />
+    <option name="y" value="244" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -218,6 +233,11 @@
             <path>
               <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="3 Threading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,6 +313,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 Threading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2018.02.06 Python学习" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 Threading/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,16 +351,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.alien_invasion" />
       <item index="1" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
       <item index="2" class="java.lang.String" itemvalue="Python.Threading" />
+      <item index="3" class="java.lang.String" itemvalue="Python.aaa" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Python.Threading" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
-        <item index="2" class="java.lang.String" itemvalue="Python.alien_invasion" />
+        <item index="1" class="java.lang.String" itemvalue="Python.aaa" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
+        <item index="3" class="java.lang.String" itemvalue="Python.alien_invasion" />
       </list>
     </recent_temporary>
   </component>
@@ -535,17 +576,24 @@
       <option name="project" value="LOCAL" />
       <updated>1523889092682</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2018.04.17 Threading add">
+      <created>1523933766163</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1523933766163</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.043525573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23177366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19151251" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45615867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22228146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -608,7 +656,8 @@
     <MESSAGE value="2018.02.27 添加多个外星人完毕，下一步射杀外星人" />
     <MESSAGE value="2018.04.16 MultiProcessing Queue添加" />
     <MESSAGE value="2018.04.16 MultiProcessing Pool学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.04.16 MultiProcessing Pool学习" />
+    <MESSAGE value="2018.04.17 Threading add" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018.04.17 Threading add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -631,7 +680,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 First Programme/test.py" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/READMR.md" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/First Programme.ipynb" />
     <entry file="file://$PROJECT_DIR$/0 Introduction/Introduction.md" />
@@ -862,7 +910,7 @@
         <state relative-caret-position="621">
           <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -872,16 +920,6 @@
         <state relative-caret-position="540">
           <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/alien_invasion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#10#20#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,11 +975,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#10#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Threading/aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#215#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3 Threading/Threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="567">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
