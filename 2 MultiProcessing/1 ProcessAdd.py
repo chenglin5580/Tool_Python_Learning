@@ -3,17 +3,19 @@
 import multiprocessing as mp
 
 def job(a, d, q):
-    print('aaaa')
-    res = a + d
+    print('aaaa'+str(a)+'start')
+    for _ in range(100000):
+        res = a + d
     q.put(res)
+    print('aaaa' + str(a) + 'finish')
 
 #11
 
 if __name__=='__main__':
 
     q = mp.Queue()
-    p1 = mp.Process(target=job, args=(1, 2, q))
-    p2 = mp.Process(target=job, args=(3, 4, q))
+    p1 = mp.Process(target=job, args=(1, 2, q,))
+    p2 = mp.Process(target=job, args=(3, 4, q,))
     p1.start()
     p2.start()
     p1.join()

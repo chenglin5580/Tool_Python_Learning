@@ -15,19 +15,22 @@ def job(q):
 
 def multicore():
     q = mp.Queue()
-    p1 = mp.Process(target=job, args=(q,))
-    p2 = mp.Process(target=job, args=(q,))
-    p1.start()
-    p2.start()
-    p1.join()
-    p2.join()
-    res1 = q.get()
-    res2 = q.get()
-    print('multicore:' , res1+res2)
+    threads = []
+    for i in range(10):
+        p = mp.Process(target=job, args=(q,))
+        threads.append(p)
+    for thread in threads:
+        thread.start()
+    for thread in threads:
+        thread.join()
+    res = []
+    for i in range(10):
+        res.append(q.get())
+    print('multicore:', res)
 
 def normal():
     res = 0
-    for _ in range(2):
+    for _ in range(10):
         for i in range(1000000):
             res += i+i**2+i**3
     print('normal:', res)
@@ -47,7 +50,7 @@ def multithread():
 if __name__ == '__main__':
     st = time.time()
     normal()
-    st1= time.time()
+    st1 = time.time()
     print('normal time:', st1 - st)
     multithread()
     st2 = time.time()
