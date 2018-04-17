@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/3 Threading/2 Queue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/Threading.py" afterPath="$PROJECT_DIR$/3 Threading/1 Threading.py" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/aaa.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +17,7 @@
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$Threading.coverage" NAME="Threading Coverage Results" MODIFIED="1523934737117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning2$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519741607281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1523934494932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$3_EfficiencyTest.coverage" NAME="3 EfficiencyTest Coverage Results" MODIFIED="1523945603167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_EfficiencyComparison.coverage" NAME="2 EfficiencyComparison Coverage Results" MODIFIED="1523888550442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 MultiProcessing" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_Queue.coverage" NAME="2 Queue Coverage Results" MODIFIED="1523935477595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/2018_02_06_Python$2018_02_06_Python.coverage" NAME="2018.02.06 Python学习 Coverage Results" MODIFIED="1517923090776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -103,13 +102,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2 Queue.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2 Queue.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3 Threading/2 Queue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="729">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding>
                 <element signature="e#2#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 EfficiencyTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+              <folding>
+                <element signature="e#215#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,16 +143,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -188,6 +189,7 @@
         <option value="$PROJECT_DIR$/3 Threading/aaa.py" />
         <option value="$PROJECT_DIR$/3 Threading/Threading.py" />
         <option value="$PROJECT_DIR$/3 Threading/2 Queue.py" />
+        <option value="$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py" />
       </list>
     </option>
   </component>
@@ -267,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2 Queue">
+  <component name="RunManager" selected="Python.3 EfficiencyTest">
     <configuration name="2 EfficiencyComparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,6 +303,25 @@
       <module name="2018.02.06 Python学习" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 Threading/2 Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3 EfficiencyTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 Threading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2018.02.06 Python学习" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,39 +365,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2018.02.06 Python学习" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion/alien_invasion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.alien_invasion" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Threading" />
-      <item index="3" class="java.lang.String" itemvalue="Python.aaa" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2 Queue" />
+      <item index="0" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Threading" />
+      <item index="2" class="java.lang.String" itemvalue="Python.aaa" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2 Queue" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3 EfficiencyTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.2 Queue" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Threading" />
-        <item index="2" class="java.lang.String" itemvalue="Python.aaa" />
-        <item index="3" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
-        <item index="4" class="java.lang.String" itemvalue="Python.alien_invasion" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3 EfficiencyTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2 Queue" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Threading" />
+        <item index="3" class="java.lang.String" itemvalue="Python.aaa" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523934782172</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2018.04.17 Threading Queue返回值，但是依旧传递参数就不再多线程">
+      <created>1523935588294</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1523935588294</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -614,7 +623,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.043525573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.036996737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34167573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45615867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22228146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -679,7 +688,8 @@
     <MESSAGE value="2018.04.16 MultiProcessing Pool学习" />
     <MESSAGE value="2018.04.17 Threading add" />
     <MESSAGE value="2018.04.17 Threading 多线程同步，但是传递参数就不再多线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.04.17 Threading 多线程同步，但是传递参数就不再多线程" />
+    <MESSAGE value="2018.04.17 Threading Queue返回值，但是依旧传递参数就不再多线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018.04.17 Threading Queue返回值，但是依旧传递参数就不再多线程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,7 +712,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 First Programme/First Programme.ipynb" />
     <entry file="file://$PROJECT_DIR$/0 Introduction/Introduction.md" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/.ipynb_checkpoints/Input&amp;Output-checkpoint.ipynb" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/Input&amp;Output.ipynb" />
@@ -1026,10 +1035,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3 Threading/2 Queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="729">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
             <element signature="e#2#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#215#231#0" expanded="true" />
           </folding>
         </state>
       </provider>
