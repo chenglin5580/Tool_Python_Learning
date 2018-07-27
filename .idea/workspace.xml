@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2 MultiProcessing/4 MultiTask.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/4 Python_Call_C/add.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/4 Python_Call_C/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3 SciPy/0 Intro.MD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3 SciPy/1 root.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4 Python_Call_C/a.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4 Python_Call_C/adder.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4 Python_Call_C/test.c" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/1 Threading.py" afterPath="$PROJECT_DIR$/2 MultiProcessing/0 Threading/1 Threading.py" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/2 Queue.py" afterPath="$PROJECT_DIR$/2 MultiProcessing/0 Threading/2 Queue.py" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/3 EfficiencyTest.py" afterPath="$PROJECT_DIR$/2 MultiProcessing/0 Threading/3 EfficiencyTest.py" />
-      <change beforePath="$PROJECT_DIR$/3 Threading/4 Lock.py" afterPath="$PROJECT_DIR$/2 MultiProcessing/0 Threading/4 Lock.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,6 +29,7 @@
     <SUITE FILE_PATH="coverage/2018_02_06_Python$2018_02_06_Python.coverage" NAME="2018.02.06 Python学习 Coverage Results" MODIFIED="1517923090776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519719985970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1525425792367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4 Python_Call_C" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$1_root.coverage" NAME="1 root Coverage Results" MODIFIED="1532701142154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 SciPy" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_Queue.coverage" NAME="2 Queue Coverage Results" MODIFIED="1523935477595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$bb.coverage" NAME="bb Coverage Results" MODIFIED="1523946490976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$1_ProcessAdd.coverage" NAME="1 ProcessAdd Coverage Results" MODIFIED="1523947330877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 MultiProcessing" />
@@ -91,13 +90,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4 MultiTask.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4 MultiTask.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2 MultiProcessing/4 MultiTask.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
               <folding>
                 <element signature="e#215#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0 Intro.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 SciPy/0 Intro.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 root.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3 SciPy/1 root.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="e#2#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,6 +197,8 @@
         <option value="$PROJECT_DIR$/4 Python_Call_C/test.py" />
         <option value="$PROJECT_DIR$/2 MultiProcessing/4 MultiTash.py" />
         <option value="$PROJECT_DIR$/2 MultiProcessing/4 MultiTask.py" />
+        <option value="$PROJECT_DIR$/3 SciPy/0 Intro.MD" />
+        <option value="$PROJECT_DIR$/3 SciPy/1 root.py" />
       </list>
     </option>
   </component>
@@ -216,6 +242,11 @@
               <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="2 MultiProcessing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="3 SciPy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -253,21 +284,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4 MultiTask">
-    <configuration name="1 ProcessAdd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1 root">
+    <configuration name="1 root" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 MultiProcessing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 SciPy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018.02.06 Python学习" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 MultiProcessing/1 ProcessAdd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 SciPy/1 root.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,19 +381,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1 ProcessAdd" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3 Pool" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4 MultiTask" />
+      <item index="0" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3 Pool" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4 MultiTask" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1 root" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4 MultiTask" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3 Pool" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1 ProcessAdd" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1 root" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4 MultiTask" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3 Pool" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2 EfficiencyComparison" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -618,20 +649,26 @@
       <option name="project" value="LOCAL" />
       <updated>1523948339555</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2018.07.27 multiprocessing 实现了多线程求解优化问题">
+      <created>1532700862050</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1532700862050</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25353646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08161045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2241567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21218716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45615867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22867803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22867803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -698,7 +735,8 @@
     <MESSAGE value="2018.04.17 Threading 由于GIL的存在，只会节约IO时间，运算是单线程" />
     <MESSAGE value="2018.04.17 Threading 为什么windows下threading自带锁定线程？" />
     <MESSAGE value="2018.04.17 MultiProcessing多核提升效果特别明显，但是依旧看不懂多进程。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.04.17 MultiProcessing多核提升效果特别明显，但是依旧看不懂多进程。" />
+    <MESSAGE value="2018.07.27 multiprocessing 实现了多线程求解优化问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018.07.27 multiprocessing 实现了多线程求解优化问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -721,26 +759,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0 Python Base/Class&amp;Instance.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0 Python Base/Introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="486">
-            <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0 Python Base/Python Data type.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -947,7 +965,7 @@
         <state relative-caret-position="702">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <element signature="e#2#18#0" expanded="true" />
+            <element signature="e#2#18#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -957,7 +975,7 @@
         <state relative-caret-position="702">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#1#17#0" expanded="true" />
+            <element signature="e#1#17#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -977,7 +995,7 @@
         <state relative-caret-position="756">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="26" />
           <folding>
-            <element signature="e#215#231#0" expanded="true" />
+            <element signature="e#215#231#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1050,12 +1068,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3 SciPy/0 Intro.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2 MultiProcessing/4 MultiTask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="31" />
           <folding>
             <element signature="e#215#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 SciPy/1 root.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
