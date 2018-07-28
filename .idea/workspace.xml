@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="2018.07.27 加入Scipy的root求根">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3 Optimization/2 ES/1 ES.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3 Optimization/2 ES/2 1+1ES.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3 Optimization/2 ES/3 NaturalES.py" />
+    <list default="true" id="1c3bf7b4-cb26-4b99-b4f7-d221c60c1644" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/7 Gym/1 ALL/ALL.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7 Gym/2 Environments/1 Classical control.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7 Gym/2 Environments/2 ToyText.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7 Gym/2 Environments/3 Algorithm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/7 Gym/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/2018.02.06 Python学习.iml" afterPath="$PROJECT_DIR$/.idea/2018.02.06 Python学习.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3 SciPy/0 Intro.MD" afterPath="$PROJECT_DIR$/3 Optimization/1 SciPy/0 Intro.MD" />
-      <change beforePath="$PROJECT_DIR$/3 SciPy/1 root.py" afterPath="$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py" />
+      <change beforePath="$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py" afterPath="$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +28,10 @@
     <SUITE FILE_PATH="coverage/Tool_Python_Learning2$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519741607281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1523934494932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$3_EfficiencyTest.coverage" NAME="3 EfficiencyTest Coverage Results" MODIFIED="1523945603167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_ToyText.coverage" NAME="2 ToyText Coverage Results" MODIFIED="1532766846028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Gym/2 Environments" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_EfficiencyComparison.coverage" NAME="2 EfficiencyComparison Coverage Results" MODIFIED="1532698841501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 MultiProcessing" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$ALL.coverage" NAME="ALL Coverage Results" MODIFIED="1532766202255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Gym/1 ALL" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$3_Algorithm.coverage" NAME="3 Algorithm Coverage Results" MODIFIED="1532766920316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Gym/2 Environments" />
     <SUITE FILE_PATH="coverage/2018_02_06_Python$2018_02_06_Python.coverage" NAME="2018.02.06 Python学习 Coverage Results" MODIFIED="1517923090776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1519719985970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 Python Programme/1 Alien_Invasion" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$1_plugin.coverage" NAME="1 plugin Coverage Results" MODIFIED="1532749896066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 Pycharm" />
@@ -36,6 +40,7 @@
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$2_Queue.coverage" NAME="2 Queue Coverage Results" MODIFIED="1523935477595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$bb.coverage" NAME="bb Coverage Results" MODIFIED="1523946490976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 Threading" />
     <SUITE FILE_PATH="coverage/Tool_Python_Learning$1_ProcessAdd.coverage" NAME="1 ProcessAdd Coverage Results" MODIFIED="1523947330877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2 MultiProcessing" />
+    <SUITE FILE_PATH="coverage/Tool_Python_Learning$1_Classical_control.coverage" NAME="1 Classical control Coverage Results" MODIFIED="1532766724559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 Gym/2 Environments" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -51,12 +56,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="0 Intro.MD" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3 Optimization/1 SciPy/0 Intro.MD">
+      <file leaf-file-name="1 root.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 Gym/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <first_editor relative-caret-position="508">
+                <caret line="67" column="22" lean-forward="false" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,11 +79,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1 root.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py">
+      <file leaf-file-name="ALL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 Gym/1 ALL/ALL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="504">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#2#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 Classical control.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/1 Classical control.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 ToyText.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/2 ToyText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 Algorithm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/3 Algorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/gym/gym/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rendering.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/gym/gym/envs/classic_control/rendering.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1566">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageDraw2.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda3/envs/python_practice/Lib/site-packages/PIL/ImageDraw2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/213165786/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="132" column="4" lean-forward="false" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -135,6 +222,13 @@
         <option value="$PROJECT_DIR$/5 Git/aaa.py" />
         <option value="$PROJECT_DIR$/6 Pycharm/1 plugin.py" />
         <option value="$PROJECT_DIR$/6 Pycharm/README.md" />
+        <option value="$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py" />
+        <option value="$PROJECT_DIR$/7 Gym/README.md" />
+        <option value="$PROJECT_DIR$/7 Gym/1 ALL/ALL.py" />
+        <option value="$PROJECT_DIR$/7 Gym/2 Environments/1 Classical control.py" />
+        <option value="$PROJECT_DIR$/7 Gym/2 Environments/2 ToyText.py" />
+        <option value="$PROJECT_DIR$/7 Gym/2 Environments/3 Copy.py" />
+        <option value="$PROJECT_DIR$/7 Gym/2 Environments/3 Algorithm.py" />
       </list>
     </option>
   </component>
@@ -145,8 +239,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1992" />
-    <option name="y" value="68" />
+    <option name="x" value="2178" />
+    <option name="y" value="245" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -189,14 +283,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="7 Gym" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="7 Gym" type="462c0819:PsiDirectoryNode" />
+              <item name="1 ALL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tool_Python_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tool_Python_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="7 Gym" type="462c0819:PsiDirectoryNode" />
+              <item name="2 Environments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +319,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -236,7 +347,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1 plugin">
+  <component name="RunManager" selected="Python.3 Algorithm">
+    <configuration name="1 Classical control" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 Gym/2 Environments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2018.02.06 Python学习" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 Gym/2 Environments/1 Classical control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="1 plugin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,96 +386,77 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1 root" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2 ToyText" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 SciPy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 Gym/2 Environments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018.02.06 Python学习" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 SciPy/1 root.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 Gym/2 Environments/2 ToyText.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="3 Pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3 Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 MultiProcessing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 Gym/2 Environments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018.02.06 Python学习" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 MultiProcessing/3 Pool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 Gym/2 Environments/3 Algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="4 MultiTask" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ALL" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 MultiProcessing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7 Gym/1 ALL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018.02.06 Python学习" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 MultiProcessing/4 MultiTask.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4 Python_Call_C" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2018.02.06 Python学习" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4 Python_Call_C/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 Gym/1 ALL/ALL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.3 Pool" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4 MultiTask" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1 root" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1 plugin" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1 plugin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ALL" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1 Classical control" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2 ToyText" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3 Algorithm" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1 plugin" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1 root" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4 MultiTask" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3 Pool" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3 Algorithm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2 ToyText" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1 Classical control" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ALL" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1 plugin" />
       </list>
     </recent_temporary>
   </component>
@@ -629,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532750244205</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2018.07.28 优化optimization">
+      <created>1532750611159</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1532750611159</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,18 +755,19 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="856" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912949" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="856" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19912949" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37976062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11860718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45615867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12793177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12899786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55383795" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="2309" y="208" width="845" height="722" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4744287" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5277476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6006529" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -712,7 +831,8 @@
     <MESSAGE value="2018.07.27 multiprocessing 实现了多线程求解优化问题" />
     <MESSAGE value="2018.07.27 加入Scipy的root求根" />
     <MESSAGE value="2018.07.28 Pycharm学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.07.28 Pycharm学习" />
+    <MESSAGE value="2018.07.28 优化optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018.07.28 优化optimization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -722,6 +842,11 @@
           <line>45</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7 Gym/1 ALL/ALL.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -730,38 +855,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0 Python Base/Class&amp;Instance.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0 Python Base/Introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1026">
-            <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 Python base/README.md" />
-    <entry file="file://$PROJECT_DIR$/1 First Programme/Input&amp;Output.ipynb" />
-    <entry file="file://$PROJECT_DIR$/1 First Programme/.ipynb_checkpoints/Input&amp;Output-checkpoint.ipynb" />
-    <entry file="file://$PROJECT_DIR$/1 First Programme/test.py" />
-    <entry file="file://$PROJECT_DIR$/1 First Programme/READMR.md" />
-    <entry file="file://$PROJECT_DIR$/1 First Programme/First Programme.ipynb" />
-    <entry file="file://$PROJECT_DIR$/0 Introduction/Introduction.md" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/.ipynb_checkpoints/Input&amp;Output-checkpoint.ipynb" />
     <entry file="file://$PROJECT_DIR$/1 First Programme/Input&amp;Output.ipynb" />
     <entry file="file://$PROJECT_DIR$/1 Python base/README.md" />
@@ -967,20 +1065,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5 Git/aaa.py" />
-    <entry file="file://$PROJECT_DIR$/6 Pycharm/1 plugin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/6 Pycharm/1 plugin.py" />
     <entry file="file://$PROJECT_DIR$/0 Python Base/Python Flow Control.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="211">
             <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -991,7 +1081,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="238">
             <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1002,7 +1091,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1013,7 +1101,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="549">
             <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1023,7 +1110,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
-            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1032,8 +1119,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3 Optimization/1 SciPy/1 root.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="351">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Gym/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="508">
+            <caret line="67" column="22" lean-forward="false" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/213165786/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="132" column="4" lean-forward="false" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/python_practice/Lib/site-packages/PIL/ImageDraw2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gym/gym/envs/classic_control/rendering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/gym/gym/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Gym/1 ALL/ALL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/1 Classical control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/2 ToyText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 Gym/2 Environments/3 Algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -12,7 +12,7 @@ def job(i):
     return res.x
 
 def problem(x):
-    return 2*x-1
+    return 2 * x -1
 
 if __name__ == '__main__':
     print('result=', job(1))
