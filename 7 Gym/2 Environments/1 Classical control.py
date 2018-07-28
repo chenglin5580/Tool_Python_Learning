@@ -8,6 +8,7 @@ import gym
 # env_name = 'MountainCar-v0'
 # env_name = 'MountainCarContinuous-v0'
 env_name = 'Acrobot-v1'
+# env_name = 'SpaceInvaders-v0'
 
 
 env = gym.make(env_name)
