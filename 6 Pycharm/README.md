@@ -58,13 +58,15 @@ If you have a general idea of what you're looking for, you can always locate the
 > Scientific mode in PyCharm provides support for interactive scientific computing and data visualization. The following packages must be properly installed: Matplotlib and Numpy
 
 具体
-> (document 显示)The Documentation tool window appears (a pinned version of the quick documentation lookup), showing the inline documentation for the symbol at caret:
->  (special variable) DataFrame/Array view appears in the Python console and in the Debug tool window.
-> In the Scientific mode, a graph opens in its own tab in the SciView window, allowing you to resize it, zoom in and out, etc. You can alter this behavior by toggling the Show plots in tool window check box (Settings/Preferences | Tools | Python Scientific).
-> When you open SciView tool window with the debug session stopped, an empty tab is shown, where you can type the variables from the console:
+1 (document 显示)The Documentation tool window appears (a pinned version of the quick documentation lookup), showing the inline documentation for the symbol at caret:
 
+2  (special variable) DataFrame/Array view appears in the Python console and in the Debug tool window.
 
-Pycharm3 新增了（科学模式）Scientific mode。在普通的项目里如果不需要使用到Scientific mode，可以选择关闭它。
+3 In the Scientific mode, a graph opens in its own tab in the SciView window, allowing you to resize it, zoom in and out, etc. You can alter this behavior by toggling the Show plots in tool window check box (Settings/Preferences | Tools | Python Scientific).
+
+4 When you open SciView tool window with the debug session stopped, an empty tab is shown, where you can type the variables from the console:
+
+5  Pycharm3 新增了（科学模式）Scientific mode。在普通的项目里如果不需要使用到Scientific mode，可以选择关闭它。
 - View > 去掉Scientific Mode的勾选
 - Settings > Tools > Python Scientific > Show plots in tool window 关闭
 
