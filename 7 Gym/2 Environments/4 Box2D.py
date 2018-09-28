@@ -5,8 +5,8 @@ import gym
 # env_name = 'BipedalWalker-v2'
 # env_name = 'BipedalWalkerHardcore-v2'
 # env_name = 'CarRacing-v0'
-env_name = 'LunarLander-v2'
-# env_name = 'LunarLanderContinuous-v2'
+# env_name = 'LunarLander-v2'
+env_name = 'LunarLanderContinuous-v2'
 
 
 env = gym.make(env_name)
