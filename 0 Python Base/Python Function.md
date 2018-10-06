@@ -97,6 +97,8 @@ def my_bas(x):
 - 格式 lambda x: x*x
 - list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7, 8, 9]))
 
+## 生成器generator
+- a = [x**2 for i in range(10)]
 
 # 待学习部分
 [地址](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317848428125ae6aa24068b4c50a7e71501ab275d52000)
